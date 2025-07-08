@@ -1,3 +1,5 @@
 print("manoj p")
 print("manja")
 print("mg7")
+print("gt rx7")
+print("bus")
